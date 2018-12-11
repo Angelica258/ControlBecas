@@ -1,0 +1,140 @@
+.ini{
+	margin auto;
+	text-align: center;
+}
+.contenedorNav{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+}
+.container{
+	margin auto;
+}
+
+#imgHeader {
+	height: 198px;
+	width: 80%;
+	margin: auto;
+	display: block;
+}
+
+.icono{
+	font-size: 16px;
+	line-height: 5px;
+	margin-right: 10px;
+}
+
+#myNavbar{
+	padding-right: 0px;
+    padding-left: 0px;
+    background: #7FC3FF;
+}
+#myNavbar, .navbar-header{
+	background: #7FC3FF;
+}
+#myNavbar li>a{
+		color: #FFFFFF;
+		display: block;
+		padding: 15px;
+		background: #7FC3FF;
+	}
+#myNavbar li>a:hover {
+		background: #7FC3FF;
+		color: #020202;
+	}
+#myNavbar .dropdown-menu li>a:hover{
+		background: #fff;
+		color: #ffffff;
+		background-color: #286090;
+	}
+#myNavbar li>ul>li>a{
+		background: #7FC3FF;
+	}
+#barra-titulo{
+	color: #ffffff;
+	background-color: #7FC3FF;
+}
+
+.dropdown-menu h5{
+	text-align: center;
+	color: #286090;
+	font-weight: bold;
+}
+
+.item {
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+.item img {
+    height: 100%;
+    width: 100%;
+}
+
+.botonesP .input-group {
+	position: relative;
+    display: table;
+    border-collapse: separate;
+    width: 25%;
+
+}
+.botonesP{
+	display: flex;
+	justify-content: center;
+}
+
+#contendorProductos  h4{
+    text-align: center;
+    color: #013A73;
+    font-weight: bold;
+	font-size: 2em;
+}
+.botonDestacado{
+    margin-top: 21px;
+    justify-content: center;
+}
+
+
+#footer{
+	margin-top: 7%;
+	background-color: #7FC3FF;
+	text-align: center;
+	color: #FFFFFF;
+}
+#footer h4{
+	color: #FFFFFF;
+}
+
+.redes .iconos{
+	font-size: 30px;
+	line-height: 16px;
+	color: #FFFFFF;
+	margin-right: 2%;
+}
+
+#vistaProductos h4{
+    text-align: center;
+    color: #013A73;
+    font-weight: bold;
+    font-size: 2em;
+}
+#vistaProductos hr{
+	border-top: 1px solid #337ab7;
+}
+.centrarInfor{
+	margin-left: 12%;
+}
+
+
+.control-label{
+	color: #013A73;
+	font-weight: bold;
+}
+
+.detalle{
+	margin-left: 8%;
+}
+.asignarT{
+	margin-top: 3%;
+}
